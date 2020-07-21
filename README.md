@@ -1,4 +1,4 @@
-# This Is A FREE Website
+# This is a Free Website
 
 > This website was created by [@bohanjun](https://github.com/bohanjun).
 >
