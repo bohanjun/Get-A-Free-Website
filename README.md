@@ -8,4 +8,4 @@
 >
 > CDN by [Cloudflare](https://www.cloudflare.com/).
 
-It cost me **ZERO DOLLAR**.
+This website cost me &yen;0.
