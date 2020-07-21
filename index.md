@@ -1,5 +1,3 @@
-# This Is A **FREE** Website.
-
 > This website was created by [@bohanjun](https://github.com/bohanjun).
 >
 > Pages on [GitHub](https://github.com/),
