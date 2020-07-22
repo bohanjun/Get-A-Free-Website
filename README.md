@@ -10,4 +10,4 @@
 
 This website cost me **&yen;0**.
 
-[![banner.png](https://s1.ax1x.com/2020/07/21/Uo79hD.png)](https://pisearch.cn/?from=free-site-repo)
+[<img src='https://s1.ax1x.com/2020/07/21/Uo79hD.png' alt='banner.png' title='banner.png' />](https://pisearch.cn/?from=free-site-repo)
